@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "FlameCraftBOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
-    "port": 29195,
-    "version": "1.21.1"
+    "ip": "FlameCRAFT-2P0Y.aternos.me",
+    "port":47050",
+    "version": "1.26.31.1"
   },
   "position": {
     "enabled": true,
@@ -19,7 +19,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Slobos"
+      "password": "47050"
     },
     "anti-afk": {
       "enabled": true,
@@ -30,9 +30,8 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "§l§mENTREM NO NOSSO DISCORD",
+        "§l§tNOSSO TIK TOK: M.G
       ]
     },
     "chat-log": true,
